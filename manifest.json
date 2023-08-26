@@ -2,6 +2,6 @@
 	"name": "TokenUtils",
 	"description": "Adds the /token commands",
 	"authors": [{ "name": "meqativ :3", "id": "744276454946242723" }],
-	"main": "./index.js",
+	"main": "https://raw.githubusercontent.com/darcellapy/thej/master/plugins/GetToken/index.js",
 	"vendetta": { "icon": "ic_full_server_gating_24px" }
 }
